@@ -1,2 +1,1 @@
-vocab.html filter=lfs diff=lfs merge=lfs -text
 vocab.pdf filter=lfs diff=lfs merge=lfs -text
