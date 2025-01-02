@@ -1,6 +1,6 @@
 # This repo is pushed to github-pages
 
-You can browse the vocab.html file via [https://sahilrajput03.github.io/vocab-files/vocab2](https://sahilrajput03.github.io/vocab-files/vocab2)
+You can browse the vocab.html file via [https://sahilrajput03.github.io/vocab-files/vocab](https://sahilrajput03.github.io/vocab-files/vocab)
 
 # Why?
 
