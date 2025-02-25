@@ -1,5 +1,7 @@
 # This repo is pushed to github-pages
 
+**❤️TODO: I need to make a cron job which runs these two scripts on a cron every day.**
+
 You can browse the vocab.html file via [https://sahilrajput03.github.io/vocab-files/vocab](https://sahilrajput03.github.io/vocab-files/vocab)
 
 # Why?
