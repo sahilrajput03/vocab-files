@@ -24,4 +24,3 @@ padding-bottom: 0px !important;\
 
 # Go back to previous folder
 cd -
-say "Vocab deployment successful."
