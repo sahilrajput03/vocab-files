@@ -3,6 +3,9 @@
 #           given you have not changed the html file thus you must run
 #           the function only when needed and not via a cron job.
 
+SCRIPT_DIR="$(dirname -- "${BASH_SOURCE[0]}")"
+cd $SCRIPT_DIR
+
 file="vocab.html"
 wget --output-document=$file "https://docs.google.com/document/d/1cOuji7fDKKQBDMEI9oSPH62HddnO_TxY_58g_EfH1L0/export?format=html"
 
@@ -18,3 +21,6 @@ padding-top: 0px !important;\
 padding-bottom: 0px !important;\
 }\
 ' vocab.html
+
+# Go back to previous folder
+cd -
