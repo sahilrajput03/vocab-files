@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# ! NOTE: The script is NOT pure i.e, it generates different output given you
-#           have not changed the html file thus you must run the function only when needed
-#           and not via a cron job.
+# ! NOTE: The script is NOT pure i.e, it generates different output
+#           given you have not changed the html file thus you must run
+#           the function only when needed and not via a cron job.
 
 file="vocab.html"
 wget --output-document=$file "https://docs.google.com/document/d/1cOuji7fDKKQBDMEI9oSPH62HddnO_TxY_58g_EfH1L0/export?format=html"
