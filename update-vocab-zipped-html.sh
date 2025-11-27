@@ -8,6 +8,7 @@ cd $SCRIPT_DIR
 
 doc="https://docs.google.com/document/d/1cOuji7fDKKQBDMEI9oSPH62HddnO_TxY_58g_EfH1L0"
 
+
 file="vocab.zip"
 wget --output-document=$file "$doc/export?format=zip"
 output_folder=html-zipped
